@@ -1,0 +1,12 @@
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/bin/Debug/net10.0/HoboEngine.deps.json
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/bin/Debug/net10.0/HoboEngine.dll
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/bin/Debug/net10.0/HoboEngine.pdb
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/obj/Debug/net10.0/HoboEngine.csproj.AssemblyReference.cache
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/obj/Debug/net10.0/HoboEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/obj/Debug/net10.0/HoboEngine.AssemblyInfoInputs.cache
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/obj/Debug/net10.0/HoboEngine.AssemblyInfo.cs
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/obj/Debug/net10.0/HoboEngine.csproj.CoreCompileInputs.cache
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/obj/Debug/net10.0/HoboEngine.dll
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/obj/Debug/net10.0/refint/HoboEngine.dll
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/obj/Debug/net10.0/HoboEngine.pdb
+/home/hoborussian0/Projects/GithubProjects/HoboEngine/obj/Debug/net10.0/ref/HoboEngine.dll
