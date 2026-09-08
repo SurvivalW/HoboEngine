@@ -1,3 +1,3 @@
 # HoboEngine
 
-A library for 3D C# game dev
+A library for 3D C# game development

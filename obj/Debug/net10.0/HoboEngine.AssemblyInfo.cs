@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HoboEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db6f3d44c97627e1fbdee53381e4586e1f68c9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HoboEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HoboEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

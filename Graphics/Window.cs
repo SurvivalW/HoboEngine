@@ -1,5 +1,6 @@
 using Silk.NET.Windowing;
 using Silk.NET.Maths;
+using Silk.NET.OpenGL;
 
 namespace HoboEngine.Graphics;
 
@@ -25,5 +26,20 @@ public class Window
     public void Close()
     {
         window.Close();
+    }
+
+    public void OnLoad(Action<GL> action)
+    {
+        window.Load += () =>
+        {
+            GL gl = GL.GetApi(window);
+            action(gl);
+        };
+    }
+
+
+    public void OnRender(Action<double> action)
+    {
+        window.Render += action;
     }
 }
