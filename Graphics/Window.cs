@@ -37,9 +37,13 @@ public class Window
         };
     }
 
-
     public void OnRender(Action<double> action)
     {
         window.Render += action;
+    }
+
+    public void OnUpdate(Action<double> action)
+    {
+        window.Update += action;
     }
 }
